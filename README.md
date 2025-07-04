@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajasiwal&label=Profile%20views&color=0e75b6&style=flat" alt="pankajasiwal" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 **Full Stack Developer**
 
 - 👨‍💻 My Portfolio [http://pankajasiwal.github.io/portfolio](http://pankajasiwal.github.io/portfolio)
 
